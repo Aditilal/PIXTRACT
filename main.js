@@ -29,6 +29,6 @@ bot.on("message", (msg) => {
 });
 console.log("Working");
 
-bot.login("OTI0MTk5MTYwOTY0NjAzOTI0.YcbFig.EUGH_VBd0-POt-GyuvbDwVVVbuU");
+bot.login("token");
 
 
